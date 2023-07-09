@@ -1,13 +1,13 @@
 {
-  "name": "سورس تيبثون العربي - TEPTHON ARABIC",
-  "description": "أهلًا بك في الإصدار الثاني من سورس تيبثون العربي - @Tepthon",
-  "logo": "https://telegra.ph/file/dde13c45521934cce18c7.jpg",
+  "name": "سورس اللـوري - ELLORY USERBOT",
+  "description": "أهلًا بك في سورس اللوري العربي .",
+  "logo": "https://telegra.ph/file/d96599116bdfb21bf1509.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Tepthonee/PPF22",
+  "repository": "https://github.com/ERR68/Source",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/Tepthonee/PPF22",
+      "value": "https://github.com/ERR68/Source",
       "required": false
     }
     },
